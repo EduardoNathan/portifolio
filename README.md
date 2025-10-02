@@ -17,4 +17,4 @@ O portfólio foi desenvolvido para funcionar bem em diferentes dispositivos, gar
 
 ## 🚀 Deploy
 
-O projeto está hospedado e disponível online através da **Vercel**: [Acessar Portfólio](https://eduardonathan.vercel.app/) 
+O projeto está hospedado e disponível online através da **Vercel**: [Acessar Portfólio](https://portifolio-lemon-psi.vercel.app/) 
